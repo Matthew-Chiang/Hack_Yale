@@ -1,5 +1,7 @@
 # Hack_Yale
 
+visit http://matthew-chiang.com/ for more information
+
 Using Python 3.6.2
 
 Needed Libraries
